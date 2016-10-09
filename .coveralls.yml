@@ -1,0 +1,2 @@
+service_name: travis-pro
+repo_token: $PIZZA_OVEN_PLANNER_COVERALLS_REPO_TOKEN
