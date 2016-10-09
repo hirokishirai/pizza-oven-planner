@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/hirokishirai/pizza-oven-planner/badges/gpa.svg)](https://codeclimate.com/github/hirokishirai/pizza-oven-planner) [![Test Coverage](https://codeclimate.com/github/hirokishirai/pizza-oven-planner/badges/coverage.svg)](https://codeclimate.com/github/hirokishirai/pizza-oven-planner/coverage) [![Issue Count](https://codeclimate.com/github/hirokishirai/pizza-oven-planner/badges/issue_count.svg)](https://codeclimate.com/github/hirokishirai/pizza-oven-planner)
 # Welcome to PizzaOvenPlanner
 PizzaOvenPlanner provides features that are the easiest to plan pizza oven.
 
