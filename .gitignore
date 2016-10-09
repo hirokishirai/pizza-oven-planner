@@ -9,3 +9,4 @@
 /spec/reports/
 /tmp/
 *.un~
+/vendor/bundle
