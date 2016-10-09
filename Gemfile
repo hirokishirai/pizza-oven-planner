@@ -8,6 +8,7 @@ group :development, :test do
   gem "cucumber"
   gem "aruba"
   gem "rspec"
+  gem "coveralls", :require => false
 end
 
 group :test do
