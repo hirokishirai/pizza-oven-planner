@@ -11,6 +11,10 @@ group :development, :test do
   gem "coveralls", :require => false
 end
 
+group :development do
+  gem "travis-lint"
+end
+
 group :test do
   gem "simplecov"
   gem "codeclimate-test-reporter", require: false
