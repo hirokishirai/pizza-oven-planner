@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "pizza_oven_planner"
