@@ -12,5 +12,6 @@ if ENV['CI']
     Coveralls::SimpleCov::Formatter
   ])
   SimpleCov.start 'test_frameworks'
+  codeclimate-ruby
   CodeClimate::TestReporter.start
 end
