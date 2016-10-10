@@ -7,10 +7,10 @@ if ENV['CI']
   require "codeclimate-test-reporter"
   Coveralls.wear!
 
-  SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
+  SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
     SimpleCov::Formatter::HTMLFormatter,
     Coveralls::SimpleCov::Formatter
-  ]
+  ])
   SimpleCov.start 'test_frameworks'
   CodeClimate::TestReporter.start
 end
